@@ -24,3 +24,6 @@ JavaScript (with a weather API library)
 
 
 ![image](https://github.com/Moitreyee-Das/Web-Development-Project-for-a-Weather-Site/assets/166435448/fa0ab8c9-f2a7-4dac-b329-299f40562b10)
+
+![image](https://github.com/Moitreyee-Das/Web-Development-Project-for-a-Weather-Site/assets/166435448/2c7ad915-28db-47c0-8712-365df9c0119f)
+
